@@ -14,7 +14,7 @@ Sport-Linker is a platform designed to connect sports enthusiasts, allowing them
 
 ## Tech stack V2
 
--   Node.js + Typescript
+-   Node.js
 -   Express.js
 -   MongoDB
 -   Passport
